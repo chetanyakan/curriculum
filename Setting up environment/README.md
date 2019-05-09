@@ -9,7 +9,7 @@
 
   - #### Extensions
 
-    - Autocomplete
+    - [zsh-autosuggestions(Auto Complete)](https://github.com/zsh-users/zsh-autosuggestions)
 
     - git
 
